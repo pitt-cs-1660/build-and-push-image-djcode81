@@ -1,3 +1,4 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/Y-gatJq2)
 # Cloud IAM Permissions Assignment
 
 ## Overview
@@ -70,7 +71,7 @@ You will submit your GitHub project link to Canvas. Ensure that the following ar
 - **logging.json**: Exported logs of GCP activity (from the Logging service in GCP). This will show the actions performed during the creation of the registry and the setup of Workload Identity Federation.
 - **metrics.csv**: Exported metrics data from Workload Identity Pools (found under IAM > Workload Identity Federation > ellipsis on graph > "View In Metrics Explorer" > Download). This will provide insight into authentication metrics for your workload identity.
 
-You must have all your files merged to `main`. 
+You must have all your files merged to `main`.
 
 ## Helpful commands
 
